@@ -4,3 +4,5 @@ Using
 @Linear Regression 
 Logistic Regression 
 Support Vector Machine
+Decision Tree Classifier
+Decision Tree Regressor
